@@ -1,0 +1,11 @@
+.venv/
+.claude/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+EXPLANATION.md
+ML_Concepts_Explained.md
+task.md
+graph1_class_distribution.png
+graph2_amount_boxplot.png
+graph3_confusion_matrix.png
