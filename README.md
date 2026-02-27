@@ -40,8 +40,6 @@ jupyter nbconvert --to notebook --execute Expense_Classification.ipynb
 | `Expense_Classification.ipynb` | Main notebook — EDA, model training, evaluation |
 | `accounts-bills.json` | Dataset (4,894 records) |
 | `requirements.txt` | Python dependencies |
-| `task.md` | Task tracker with step-by-step progress |
-| `EXPLANATION.md` | Layman-friendly explanation of the entire project |
 
 ## Requirements
 
